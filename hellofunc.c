@@ -3,7 +3,7 @@
 
 void myPrintHelloMake(void) {
 
-  int a=20,b=10,c=3;	 
+  int a=20,b=10,c=3,d=6;	 
   printf("Hello makefiles!\n");
   printf("udpated file !\n");
   
